@@ -1,0 +1,41 @@
+body{
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  height: 100vh;
+  display: flex;
+  background-color: #cfcfcfcf;
+}
+
+.cartao{
+  background-color: #fff;
+  height: 360x;
+  width: 335px;
+  padding: 16px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 12px #282828;
+  font-style: 'larke-sans';
+  margin: 0 auto;
+}
+
+.cartao img{
+  width: 300px;
+  height: 350;
+  border-radius: 10px;
+}
+
+.cartao button{
+  background-color: #2192ff;
+  padding: 4px;
+  height: 29px;
+  width: 70%;
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  font-style: 'larke-sans';
+  box-shadow: 3px 3px 10px #282239;
+}
+
+p{
+  color: hsl(220, 15%, 55%);
+}
